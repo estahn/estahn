@@ -28,11 +28,11 @@ I'm Enrico!
 - [estahn/godownloader](https://github.com/estahn/godownloader) - A collection of godownloader scripts.
 - [estahn/homebrew-tap](https://github.com/estahn/homebrew-tap) - A collection of Homebrew (aka, Brew) &#34;formulae&#34;
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region
-- [estahn/thumbor-formula](https://github.com/estahn/thumbor-formula) - thumbor Salt Formula
 - [estahn/guzzle-stereo-bundle](https://github.com/estahn/guzzle-stereo-bundle) - Record and Replay HTTP Responses easily in Symfony
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com
+- [estahn/YiiSolarium](https://github.com/estahn/YiiSolarium) - YiiSolarium integrates Solarium (an opensource Solr client library for PHP applications)
 
 #### 🔭 Latest releases I've contributed to
 
