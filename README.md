@@ -10,10 +10,10 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (today)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (today)
-- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (2 days ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 day ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 day ago)
+- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (3 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (5 days ago)
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (1 week ago)
 - [hipagesgroup/argocd-app-updater-action](https://github.com/hipagesgroup/argocd-app-updater-action) -  (3 weeks ago)
 - [hashicorp/terraform-provider-postgresql](https://github.com/hashicorp/terraform-provider-postgresql) - As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/cyrilgdn/postgresql (2 months ago)
@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 1 day ago) - A prometheus exporter for PHP-FPM.
-- [skeema/skeema](https://github.com/skeema/skeema) ([v1.4.7](https://github.com/skeema/skeema/releases/tag/v1.4.7), 3 days ago) - Schema management CLI for MySQL
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 4 days ago) - estahn&#39;s Helm Chart Repository
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 2 days ago) - A prometheus exporter for PHP-FPM.
+- [skeema/skeema](https://github.com/skeema/skeema) ([v1.4.7](https://github.com/skeema/skeema/releases/tag/v1.4.7), 4 days ago) - Schema management CLI for MySQL
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 5 days ago) - estahn&#39;s Helm Chart Repository
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.3.1](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.3.1), 1 week ago) - Autoscaling components for Kubernetes
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.0.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.0.0), 2 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [hipagesgroup/argocd-app-updater-action](https://github.com/hipagesgroup/argocd-app-updater-action) ([v1.3.0](https://github.com/hipagesgroup/argocd-app-updater-action/releases/tag/v1.3.0), 1 month ago) - 
@@ -49,8 +49,8 @@ I'm Enrico!
 
 #### 📜 My recent blog posts
 
-- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (4 days ago)
-- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (4 days ago)
+- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (5 days ago)
+- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (5 days ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (4 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (4 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (5 years ago)
@@ -58,7 +58,7 @@ I'm Enrico!
 #### 📓 Gists I wrote
 
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (2 weeks ago)
-- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (3 months ago)
+- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (4 months ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (5 months ago)
 - [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (1 year ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (2 years ago)
