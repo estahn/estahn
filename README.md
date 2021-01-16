@@ -10,9 +10,9 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (1 day ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 days ago)
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (3 days ago)
+- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (2 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (4 days ago)
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (4 days ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (2 weeks ago)
@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.9](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.9), 2 days ago) - Atlantis Helm Chart
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 4 days ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.9](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.9), 3 days ago) - Atlantis Helm Chart
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 5 days ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 1 week ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.4.7](https://github.com/skeema/skeema/releases/tag/v1.4.7), 1 week ago) - Schema management CLI for MySQL
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 1 week ago) - estahn&#39;s Helm Chart Repository
