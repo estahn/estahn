@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 2 days ago) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 3 days ago) - Autoscaling components for Kubernetes
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 week ago) - GitHub Actions - Automate your GitHub workflows
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.10](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.10), 1 week ago) - Atlantis Helm Chart
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 2 weeks ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
