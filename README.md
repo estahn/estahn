@@ -14,7 +14,7 @@ I'm Enrico!
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (2 weeks ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (2 weeks ago)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 weeks ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (3 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 weeks ago)
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (4 weeks ago)
 - [hipagesgroup/argocd-app-updater-action](https://github.com/hipagesgroup/argocd-app-updater-action) -  (1 month ago)
@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 4 days ago) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 5 days ago) - Autoscaling components for Kubernetes
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 week ago) - GitHub Actions - Automate your GitHub workflows
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.10](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.10), 1 week ago) - Atlantis Helm Chart
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 2 weeks ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
