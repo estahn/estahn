@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 6 days ago) - Autoscaling components for Kubernetes
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 1 week ago) - Autoscaling components for Kubernetes
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 week ago) - GitHub Actions - Automate your GitHub workflows
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.10](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.10), 1 week ago) - Atlantis Helm Chart
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 2 weeks ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
@@ -45,7 +45,7 @@ I'm Enrico!
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 3 weeks ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.0.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.0.0), 1 month ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [hipagesgroup/argocd-app-updater-action](https://github.com/hipagesgroup/argocd-app-updater-action) ([v1.3.0](https://github.com/hipagesgroup/argocd-app-updater-action/releases/tag/v1.3.0), 1 month ago) - 
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.3.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.3.0), 1 month ago) - Kubernetes Operator for Humio
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.3.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.3.0), 2 months ago) - Kubernetes Operator for Humio
 
 #### 📜 My recent blog posts
 
