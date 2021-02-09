@@ -11,8 +11,8 @@ I'm Enrico!
 #### 👷 Check out what I'm currently working on
 
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (3 weeks ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 weeks ago)
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (3 weeks ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (4 weeks ago)
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (4 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (1 month ago)
@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/operator-0.5.0), 4 days ago) - Kubernetes Operator for Humio
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/operator-0.5.0), 5 days ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 2 weeks ago) - Autoscaling components for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.10](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.10), 3 weeks ago) - Atlantis Helm Chart
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 4 weeks ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
