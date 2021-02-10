@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/operator-0.5.0), 5 days ago) - Kubernetes Operator for Humio
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 1 day ago) - Atlantis Helm Chart
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/operator-0.5.0), 6 days ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.4.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.4.0), 2 weeks ago) - Autoscaling components for Kubernetes
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.10](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.10), 3 weeks ago) - Atlantis Helm Chart
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 4 weeks ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 1 month ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.4.7](https://github.com/skeema/skeema/releases/tag/v1.4.7), 1 month ago) - Schema management CLI for MySQL
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 1 month ago) - estahn&#39;s Helm Chart Repository
