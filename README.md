@@ -10,7 +10,7 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (today)
+- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (1 day ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (1 month ago)
@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-2.0.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-2.0.0), 3 days ago) - Autoscaling components for Kubernetes
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.0), 5 days ago) - Kubernetes Operator for Humio
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 6 days ago) - Atlantis Helm Chart
-- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 3 weeks ago) - GitHub Actions - Automate your GitHub workflows
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-2.0.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-2.0.0), 4 days ago) - Autoscaling components for Kubernetes
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.0), 6 days ago) - Kubernetes Operator for Humio
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 1 week ago) - Atlantis Helm Chart
+- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 4 weeks ago) - GitHub Actions - Automate your GitHub workflows
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 1 month ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.4.7](https://github.com/skeema/skeema/releases/tag/v1.4.7), 1 month ago) - Schema management CLI for MySQL
