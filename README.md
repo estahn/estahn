@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.4](https://github.com/estahn/cloudping/releases/tag/v1.2.4), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.5.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.5.0), 1 day ago) - Autoscaling components for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.5](https://github.com/estahn/cloudping/releases/tag/v1.2.5), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.5.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.5.0), 2 days ago) - Autoscaling components for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.0), 2 weeks ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 2 weeks ago) - Atlantis Helm Chart
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 month ago) - GitHub Actions - Automate your GitHub workflows
