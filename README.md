@@ -10,6 +10,7 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
+- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (1 day ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (2 weeks ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
@@ -19,7 +20,6 @@ I'm Enrico!
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (2 months ago)
 - [hipagesgroup/argocd-app-updater-action](https://github.com/hipagesgroup/argocd-app-updater-action) -  (2 months ago)
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart (3 months ago)
-- [hashicorp/terraform-provider-postgresql](https://github.com/hashicorp/terraform-provider-postgresql) - As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/cyrilgdn/postgresql (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.9](https://github.com/estahn/cloudping/releases/tag/v1.2.9), 1 day ago) - Identifies geographically closest cloud provider region
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.1), 5 days ago) - Kubernetes Operator for Humio
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.6.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.6.0), 5 days ago) - Autoscaling components for Kubernetes
-- [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 6 days ago) - Schema management CLI for MySQL
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.10](https://github.com/estahn/cloudping/releases/tag/v1.2.10), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.1), 6 days ago) - Kubernetes Operator for Humio
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.6.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.6.0), 6 days ago) - Autoscaling components for Kubernetes
+- [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 1 week ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 3 weeks ago) - Atlantis Helm Chart
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 month ago) - GitHub Actions - Automate your GitHub workflows
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 1 month ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
