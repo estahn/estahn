@@ -10,7 +10,7 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (2 days ago)
+- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (3 days ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (2 weeks ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.11](https://github.com/estahn/cloudping/releases/tag/v1.2.11), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.7.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.7.0), 1 day ago) - Autoscaling components for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.11](https://github.com/estahn/cloudping/releases/tag/v1.2.11), 2 days ago) - Identifies geographically closest cloud provider region
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.1), 1 week ago) - Kubernetes Operator for Humio
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.6.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.6.0), 1 week ago) - Autoscaling components for Kubernetes
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 1 week ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 3 weeks ago) - Atlantis Helm Chart
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 month ago) - GitHub Actions - Automate your GitHub workflows
