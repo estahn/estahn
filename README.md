@@ -36,13 +36,13 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.14](https://github.com/estahn/cloudping/releases/tag/v1.2.14), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.8.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.8.0), 2 days ago) - Autoscaling components for Kubernetes
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.1), 1 week ago) - Kubernetes Operator for Humio
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.15](https://github.com/estahn/cloudping/releases/tag/v1.2.15), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.8.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.8.0), 3 days ago) - Autoscaling components for Kubernetes
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.5.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.5.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 2 weeks ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 1 month ago) - Atlantis Helm Chart
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 month ago) - GitHub Actions - Automate your GitHub workflows
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 1 month ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 2 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 2 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.5](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.5), 2 months ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.0.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.0.0), 2 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
