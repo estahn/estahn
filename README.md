@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.19](https://github.com/estahn/cloudping/releases/tag/v1.2.19), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.0), 2 days ago) - Autoscaling components for Kubernetes
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.6.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.6.1), 2 days ago) - Kubernetes Operator for Humio
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.20](https://github.com/estahn/cloudping/releases/tag/v1.2.20), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.0), 3 days ago) - Autoscaling components for Kubernetes
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.6.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.6.1), 3 days ago) - Kubernetes Operator for Humio
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 3 weeks ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 1 month ago) - Atlantis Helm Chart
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 1 month ago) - GitHub Actions - Automate your GitHub workflows
