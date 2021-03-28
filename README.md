@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.27](https://github.com/estahn/cloudping/releases/tag/v1.2.27), today) - Identifies geographically closest cloud provider region
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.2), 3 days ago) - Autoscaling components for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.27](https://github.com/estahn/cloudping/releases/tag/v1.2.27), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.2), 4 days ago) - Autoscaling components for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.6.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.6.1), 1 week ago) - Kubernetes Operator for Humio
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 1 month ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.11](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.11), 1 month ago) - Atlantis Helm Chart
