@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.29](https://github.com/estahn/cloudping/releases/tag/v1.2.29), 1 day ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.30](https://github.com/estahn/cloudping/releases/tag/v1.2.30), 1 day ago) - Identifies geographically closest cloud provider region
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.2), 1 week ago) - Autoscaling components for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.6.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.6.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.0](https://github.com/skeema/skeema/releases/tag/v1.5.0), 1 month ago) - Schema management CLI for MySQL
@@ -60,5 +60,5 @@ I'm Enrico!
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (3 months ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (6 months ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (8 months ago)
-- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (1 year ago)
+- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (2 years ago)
