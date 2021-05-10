@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.49](https://github.com/estahn/cloudping/releases/tag/v1.2.49), 2 days ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.49](https://github.com/estahn/cloudping/releases/tag/v1.2.49), 3 days ago) - Identifies geographically closest cloud provider region
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 1 week ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.13](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.13), 2 weeks ago) - Atlantis Helm Chart
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.5.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.5.0), 3 weeks ago) - Fluent-Bit operator for Kubernetes
