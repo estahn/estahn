@@ -36,7 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.49](https://github.com/estahn/cloudping/releases/tag/v1.2.49), 3 days ago) - Identifies geographically closest cloud provider region
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 1 day ago) - A prometheus exporter for PHP-FPM.
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.49](https://github.com/estahn/cloudping/releases/tag/v1.2.49), 4 days ago) - Identifies geographically closest cloud provider region
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 1 week ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.13](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.13), 2 weeks ago) - Atlantis Helm Chart
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.5.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.5.0), 3 weeks ago) - Fluent-Bit operator for Kubernetes
@@ -44,8 +45,7 @@ I'm Enrico!
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.9.2](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.9.2), 1 month ago) - Autoscaling components for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.6.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.6.1), 1 month ago) - Kubernetes Operator for Humio
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 3 months ago) - GitHub Actions - Automate your GitHub workflows
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 3 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.1](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.1), 4 months ago) - A prometheus exporter for PHP-FPM.
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 4 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 
 #### 📜 My recent blog posts
 
