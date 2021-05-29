@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.59](https://github.com/estahn/cloudping/releases/tag/v1.2.59), 1 day ago) - Identifies geographically closest cloud provider region
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 2 days ago) - Kubernetes Operator for Humio
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.60](https://github.com/estahn/cloudping/releases/tag/v1.2.60), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 3 days ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 2 weeks ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 2 weeks ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 4 weeks ago) - Schema management CLI for MySQL
