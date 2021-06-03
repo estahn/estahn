@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.61](https://github.com/estahn/cloudping/releases/tag/v1.2.61), 1 day ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.62](https://github.com/estahn/cloudping/releases/tag/v1.2.62), 1 day ago) - Identifies geographically closest cloud provider region
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 1 week ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 2 weeks ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 3 weeks ago) - A prometheus exporter for PHP-FPM.
@@ -49,8 +49,8 @@ I'm Enrico!
 
 #### 📜 My recent blog posts
 
-- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (4 months ago)
-- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (4 months ago)
+- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (5 months ago)
+- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (5 months ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (5 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (5 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (6 years ago)
