@@ -36,11 +36,11 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.64](https://github.com/estahn/cloudping/releases/tag/v1.2.64), 2 days ago) - Identifies geographically closest cloud provider region
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.0), 3 days ago) - Fluent-Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.64](https://github.com/estahn/cloudping/releases/tag/v1.2.64), 3 days ago) - Identifies geographically closest cloud provider region
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.0), 4 days ago) - Fluent-Bit operator for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 1 week ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 3 weeks ago) - Autoscaling components for Kubernetes
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 3 weeks ago) - A prometheus exporter for PHP-FPM.
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 4 weeks ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 1 month ago) - Schema management CLI for MySQL
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.12.13](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.12.13), 1 month ago) - Atlantis Helm Chart
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 1 month ago) - estahn&#39;s Helm Chart Repository
