@@ -36,15 +36,15 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.73](https://github.com/estahn/cloudping/releases/tag/v1.2.73), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.2](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.2), 6 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.74](https://github.com/estahn/cloudping/releases/tag/v1.2.74), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.2](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.2), 1 week ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 1 week ago) - Atlantis Helm Chart
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 3 weeks ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 1 month ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 1 month ago) - Schema management CLI for MySQL
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 2 months ago) - estahn&#39;s Helm Chart Repository
-- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 4 months ago) - GitHub Actions - Automate your GitHub workflows
+- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 5 months ago) - GitHub Actions - Automate your GitHub workflows
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 5 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 
 #### 📜 My recent blog posts
@@ -59,6 +59,6 @@ I'm Enrico!
 
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (5 months ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (9 months ago)
-- [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (10 months ago)
+- [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (11 months ago)
 - [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (3 years ago)
