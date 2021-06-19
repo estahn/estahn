@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.74](https://github.com/estahn/cloudping/releases/tag/v1.2.74), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 1 day ago) - Kubernetes Operator for Humio
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.74](https://github.com/estahn/cloudping/releases/tag/v1.2.74), 2 days ago) - Identifies geographically closest cloud provider region
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.2](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.2), 1 week ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 1 week ago) - Atlantis Helm Chart
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.8.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.8.1), 3 weeks ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 1 month ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 1 month ago) - Schema management CLI for MySQL
