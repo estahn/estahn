@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 3 days ago) - Kubernetes Operator for Humio
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.74](https://github.com/estahn/cloudping/releases/tag/v1.2.74), 4 days ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.75](https://github.com/estahn/cloudping/releases/tag/v1.2.75), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 4 days ago) - Kubernetes Operator for Humio
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.2](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.2), 1 week ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 1 week ago) - Atlantis Helm Chart
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 1 month ago) - Autoscaling components for Kubernetes
