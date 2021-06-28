@@ -10,7 +10,7 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (5 days ago)
+- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (6 days ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (2 months ago)
@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.79](https://github.com/estahn/cloudping/releases/tag/v1.2.79), 2 days ago) - Identifies geographically closest cloud provider region
-- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 5 days ago) - JSON assertions for PHPUnit (including JSON Schema)
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.79](https://github.com/estahn/cloudping/releases/tag/v1.2.79), 3 days ago) - Identifies geographically closest cloud provider region
+- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 6 days ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 1 week ago) - Kubernetes Operator for Humio
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.6.2](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.6.2), 2 weeks ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 2 weeks ago) - Atlantis Helm Chart
