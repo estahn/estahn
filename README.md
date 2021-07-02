@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.81](https://github.com/estahn/cloudping/releases/tag/v1.2.81), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 2 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.83](https://github.com/estahn/cloudping/releases/tag/v1.2.83), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 3 days ago) - Fluent Bit operator for Kubernetes
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 1 week ago) - JSON assertions for PHPUnit (including JSON Schema)
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 1 week ago) - Kubernetes Operator for Humio
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 3 weeks ago) - Atlantis Helm Chart
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 1 month ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 1 month ago) - A prometheus exporter for PHP-FPM.
