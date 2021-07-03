@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.83](https://github.com/estahn/cloudping/releases/tag/v1.2.83), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 3 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.84](https://github.com/estahn/cloudping/releases/tag/v1.2.84), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 4 days ago) - Fluent Bit operator for Kubernetes
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 1 week ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 3 weeks ago) - Atlantis Helm Chart
@@ -49,8 +49,8 @@ I'm Enrico!
 
 #### 📜 My recent blog posts
 
-- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (5 months ago)
-- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (5 months ago)
+- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (6 months ago)
+- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (6 months ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (5 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (5 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (6 years ago)
