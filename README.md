@@ -10,7 +10,7 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (1 week ago)
+- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (2 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (2 months ago)
@@ -36,12 +36,12 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.84](https://github.com/estahn/cloudping/releases/tag/v1.2.84), 3 days ago) - Identifies geographically closest cloud provider region
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 6 days ago) - Fluent Bit operator for Kubernetes
-- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 1 week ago) - JSON assertions for PHPUnit (including JSON Schema)
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.0), 1 day ago) - Autoscaling components for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.84](https://github.com/estahn/cloudping/releases/tag/v1.2.84), 4 days ago) - Identifies geographically closest cloud provider region
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.7.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.7.0), 1 week ago) - Fluent Bit operator for Kubernetes
+- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 2 weeks ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.9.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.9.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.13.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.13.0), 3 weeks ago) - Atlantis Helm Chart
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([addon-resizer-1.8.13](https://github.com/kubernetes/autoscaler/releases/tag/addon-resizer-1.8.13), 1 month ago) - Autoscaling components for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 2 months ago) - Schema management CLI for MySQL
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 2 months ago) - estahn&#39;s Helm Chart Repository
