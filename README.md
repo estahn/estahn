@@ -19,7 +19,7 @@ I'm Enrico!
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (4 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (6 months ago)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (6 months ago)
-- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (6 months ago)
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,16 +36,16 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.100](https://github.com/estahn/cloudping/releases/tag/v1.2.100), 1 day ago) - Identifies geographically closest cloud provider region
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 1 day ago) - Kubernetes Operator for Humio
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.3](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.3), 2 days ago) - Autoscaling components for Kubernetes
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.8.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.8.0), 5 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.101](https://github.com/estahn/cloudping/releases/tag/v1.2.101), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 2 days ago) - Kubernetes Operator for Humio
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.3](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.3), 3 days ago) - Autoscaling components for Kubernetes
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.8.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.8.0), 6 days ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.0), 3 weeks ago) - Atlantis Helm Chart
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 1 month ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 2 months ago) - A prometheus exporter for PHP-FPM.
-- [skeema/skeema](https://github.com/skeema/skeema) ([v1.5.1](https://github.com/skeema/skeema/releases/tag/v1.5.1), 2 months ago) - Schema management CLI for MySQL
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 6 months ago) - GitHub Actions - Automate your GitHub workflows
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 6 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 
 #### 📜 My recent blog posts
 
