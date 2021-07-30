@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.101](https://github.com/estahn/cloudping/releases/tag/v1.2.101), 1 day ago) - Identifies geographically closest cloud provider region
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 2 days ago) - Kubernetes Operator for Humio
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.3](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.3), 3 days ago) - Autoscaling components for Kubernetes
-- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.8.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.8.0), 6 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.102](https://github.com/estahn/cloudping/releases/tag/v1.2.102), 1 day ago) - Identifies geographically closest cloud provider region
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 3 days ago) - Kubernetes Operator for Humio
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.3](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.3), 4 days ago) - Autoscaling components for Kubernetes
+- [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.8.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.8.0), 1 week ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.0), 3 weeks ago) - Atlantis Helm Chart
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 1 month ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 2 months ago) - A prometheus exporter for PHP-FPM.
