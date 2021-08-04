@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.104](https://github.com/estahn/cloudping/releases/tag/v1.2.104), 1 day ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.105](https://github.com/estahn/cloudping/releases/tag/v1.2.105), 1 day ago) - Identifies geographically closest cloud provider region
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 1 week ago) - Kubernetes Operator for Humio
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.3](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.3), 1 week ago) - Autoscaling components for Kubernetes
 - [kubesphere/fluentbit-operator](https://github.com/kubesphere/fluentbit-operator) ([v0.8.0](https://github.com/kubesphere/fluentbit-operator/releases/tag/v0.8.0), 1 week ago) - Fluent Bit operator for Kubernetes
