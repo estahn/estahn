@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.109](https://github.com/estahn/cloudping/releases/tag/v1.2.109), 1 day ago) - Identifies geographically closest cloud provider region
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.4](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.4), 4 days ago) - Autoscaling components for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.110](https://github.com/estahn/cloudping/releases/tag/v1.2.110), 1 day ago) - Identifies geographically closest cloud provider region
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ([cluster-autoscaler-chart-9.10.4](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-chart-9.10.4), 5 days ago) - Autoscaling components for Kubernetes
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.1](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.1), 2 weeks ago) - Kubernetes Operator for Humio
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.8.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.8.0), 2 weeks ago) - Fluent Bit operator for Kubernetes
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.0), 1 month ago) - Atlantis Helm Chart
