@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.119](https://github.com/estahn/cloudping/releases/tag/v1.2.119), 1 day ago) - Identifies geographically closest cloud provider region
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.2](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.2), 1 day ago) - Kubernetes Operator for Humio
-- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.9.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.9.0), 1 week ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.120](https://github.com/estahn/cloudping/releases/tag/v1.2.120), 1 day ago) - Identifies geographically closest cloud provider region
+- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.10.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.10.0), 1 day ago) - Fluent Bit operator for Kubernetes
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.2](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.2), 2 days ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.0), 1 month ago) - Atlantis Helm Chart
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 2 months ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.2](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.2), 3 months ago) - A prometheus exporter for PHP-FPM.
