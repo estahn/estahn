@@ -10,13 +10,13 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (4 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (5 days ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 weeks ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (2 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (4 months ago)
-- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (4 months ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
+- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (5 months ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (5 months ago)
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (6 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (7 months ago)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (7 months ago)
@@ -36,14 +36,14 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.127](https://github.com/estahn/cloudping/releases/tag/v1.2.127), 2 days ago) - Identifies geographically closest cloud provider region
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-02](https://github.com/backstage/backstage/releases/tag/release-2021-09-02), 3 days ago) - Backstage is an open platform for building developer portals
-- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.11.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.11.0), 4 days ago) - Fluent Bit operator for Kubernetes
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.127](https://github.com/estahn/cloudping/releases/tag/v1.2.127), 3 days ago) - Identifies geographically closest cloud provider region
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-02](https://github.com/backstage/backstage/releases/tag/release-2021-09-02), 4 days ago) - Backstage is an open platform for building developer portals
+- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.11.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.11.0), 5 days ago) - Fluent Bit operator for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.3](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.3), 1 week ago) - A prometheus exporter for PHP-FPM.
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.10.2](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.10.2), 1 week ago) - Kubernetes Operator for Humio
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.0), 2 months ago) - Atlantis Helm Chart
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 2 months ago) - JSON assertions for PHPUnit (including JSON Schema)
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 4 months ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.2.7](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.2.7), 5 months ago) - estahn&#39;s Helm Chart Repository
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 7 months ago) - GitHub Actions - Automate your GitHub workflows
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 7 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 
@@ -58,7 +58,7 @@ I'm Enrico!
 #### 📓 Gists I wrote
 
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (8 months ago)
-- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (11 months ago)
+- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (1 year ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (1 year ago)
 - [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (3 years ago)
