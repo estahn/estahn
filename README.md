@@ -10,8 +10,8 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (6 days ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 weeks ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 week ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (3 weeks ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (3 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (5 months ago)
@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.136](https://github.com/estahn/cloudping/releases/tag/v1.2.136), 1 day ago) - Identifies geographically closest cloud provider region
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-17](https://github.com/backstage/backstage/releases/tag/release-2021-09-17), 4 days ago) - Backstage is an open platform for building developer portals
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 5 days ago) - Atlantis Helm Chart
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.137](https://github.com/estahn/cloudping/releases/tag/v1.2.137), 1 day ago) - Identifies geographically closest cloud provider region
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-21](https://github.com/backstage/backstage/releases/tag/release-2021-09-21), 1 day ago) - Backstage is an open platform for building developer portals
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 6 days ago) - Atlantis Helm Chart
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.11.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.11.0), 1 week ago) - Kubernetes Operator for Humio
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 1 week ago) - Fluent Bit operator for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.3](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.3), 3 weeks ago) - A prometheus exporter for PHP-FPM.
