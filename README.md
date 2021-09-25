@@ -36,8 +36,8 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.139](https://github.com/estahn/cloudping/releases/tag/v1.2.139), 1 day ago) - Identifies geographically closest cloud provider region
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-23](https://github.com/backstage/backstage/releases/tag/release-2021-09-23), 1 day ago) - Backstage is an open platform for building developer portals
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.140](https://github.com/estahn/cloudping/releases/tag/v1.2.140), 1 day ago) - Identifies geographically closest cloud provider region
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-23](https://github.com/backstage/backstage/releases/tag/release-2021-09-23), 2 days ago) - Backstage is an open platform for building developer portals
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 1 week ago) - Atlantis Helm Chart
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.11.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.11.0), 1 week ago) - Kubernetes Operator for Humio
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 1 week ago) - Fluent Bit operator for Kubernetes
