@@ -36,10 +36,10 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.140](https://github.com/estahn/cloudping/releases/tag/v1.2.140), 3 days ago) - Identifies geographically closest cloud provider region
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-23](https://github.com/backstage/backstage/releases/tag/release-2021-09-23), 4 days ago) - Backstage is an open platform for building developer portals
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.140](https://github.com/estahn/cloudping/releases/tag/v1.2.140), 4 days ago) - Identifies geographically closest cloud provider region
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-09-23](https://github.com/backstage/backstage/releases/tag/release-2021-09-23), 5 days ago) - Backstage is an open platform for building developer portals
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 1 week ago) - Atlantis Helm Chart
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.11.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.11.0), 1 week ago) - Kubernetes Operator for Humio
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.11.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.11.0), 2 weeks ago) - Kubernetes Operator for Humio
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 2 weeks ago) - Fluent Bit operator for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.3](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.3), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 3 months ago) - JSON assertions for PHPUnit (including JSON Schema)
