@@ -6,11 +6,11 @@ I'm Enrico!
 
 <a href="https://linkedin.com/in/enricostahn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="http://twitter.com/estahn"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-<a href="https://enricostahn.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
+<a href="https://enricotahn.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 day ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (today)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
@@ -36,7 +36,7 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.1), 1 day ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.2](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.2), today) - estahn&#39;s Helm Chart Repository
 - [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-04](https://github.com/backstage/backstage/releases/tag/release-2021-10-04), 2 days ago) - Backstage is an open platform for building developer portals
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 4 days ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 week ago) - Identifies geographically closest cloud provider region
