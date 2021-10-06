@@ -6,7 +6,7 @@ I'm Enrico!
 
 <a href="https://linkedin.com/in/enricostahn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="http://twitter.com/estahn"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-<a href="https://enricotahn.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
+<a href="https://enricostahn.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
 
 #### 👷 Check out what I'm currently working on
 
