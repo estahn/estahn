@@ -10,8 +10,8 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (today)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 day ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (3 months ago)
@@ -19,7 +19,7 @@ I'm Enrico!
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (6 months ago)
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (7 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (8 months ago)
-- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (8 months ago)
+- [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34; (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,9 +36,9 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-07](https://github.com/backstage/backstage/releases/tag/release-2021-10-07), 1 day ago) - Backstage is an open platform for building developer portals
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.2](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.2), 2 days ago) - estahn&#39;s Helm Chart Repository
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 6 days ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-07](https://github.com/backstage/backstage/releases/tag/release-2021-10-07), 2 days ago) - Backstage is an open platform for building developer portals
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.2](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.2), 3 days ago) - estahn&#39;s Helm Chart Repository
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 1 week ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 week ago) - Identifies geographically closest cloud provider region
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 3 weeks ago) - Atlantis Helm Chart
 - [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.11.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.11.0), 3 weeks ago) - Kubernetes Operator for Humio
