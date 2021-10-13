@@ -10,8 +10,8 @@ I'm Enrico!
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (4 days ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (6 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 day ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (5 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (3 months ago)
@@ -36,13 +36,13 @@ I'm Enrico!
 
 #### 🔭 Latest releases I've contributed to
 
-- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.12.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.12.0), 1 day ago) - Kubernetes Operator for Humio
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-11](https://github.com/backstage/backstage/releases/tag/release-2021-10-11), 1 day ago) - Backstage is an open platform for building developer portals
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.2](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.2), 6 days ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([httpbingo-0.1.0](https://github.com/estahn/charts/releases/tag/httpbingo-0.1.0), 1 day ago) - estahn&#39;s Helm Chart Repository
+- [humio/humio-operator](https://github.com/humio/humio-operator) ([humio-operator-0.12.0](https://github.com/humio/humio-operator/releases/tag/humio-operator-0.12.0), 2 days ago) - Kubernetes Operator for Humio
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-11](https://github.com/backstage/backstage/releases/tag/release-2021-10-11), 2 days ago) - Backstage is an open platform for building developer portals
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 1 week ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 week ago) - Identifies geographically closest cloud provider region
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 2 weeks ago) - Identifies geographically closest cloud provider region
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.2](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.2), 3 weeks ago) - Atlantis Helm Chart
-- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 4 weeks ago) - Fluent Bit operator for Kubernetes
+- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 1 month ago) - Fluent Bit operator for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.3](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.3), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 3 months ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 8 months ago) - GitHub Actions - Automate your GitHub workflows
