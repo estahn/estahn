@@ -1,20 +1,12 @@
-### Hi, I'm Enrico 👋
+<img alt="Enrico's GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=estahn&show_icons=true&theme=default&hide_title=true" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/estahn?color=green&logo=twitter&style=for-the-badge)](http://twitter.com/estahn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--%20?style=for-the-badge&logo=linkedin&color=green)](https://linkedin.com/in/enricostahn)
-[![Sponsor](https://img.shields.io/github/sponsors/estahn?color=green&logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/estahn)
-[![Blog](https://img.shields.io/badge/Blog--%20?style=for-the-badge&logo=blog&color=green)](https://enricotahn.com)
+### Hi there 👋
 
-Over the years, I focused on helping software engineers to become more efficient by sharing knowledge and streamlining operational processes. I have created and contributed to many open-source projects over the past 20 years with this in mind.
+I'm Enrico!
 
-Lately, I have been working on projects such as [php-fpm_exporter](https://github.com/hipages/php-fpm_exporter), [aws-rds-logs-s3-copier](https://github.com/hipagesgroup/aws-rds-logs-s3-copier) and [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper), to improve visibility, increase resiliency and reduce cost.
-
-If you :bust_in_silhouette: or your company :office: have benefited from my work, then consider sponsoring me. Sponsoring helps me to help you to become more efficient. It allows me to continue writing bug fixes :bug:, documentation :memo: and create new features :unicorn:.
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=estahn&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=estahn&theme=default" />
-</p>
+<a href="https://linkedin.com/in/enricostahn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="http://twitter.com/estahn"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+<a href="https://enricotahn.com"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=blog" alt="Blog"></a>
 
 #### 👷 Check out what I'm currently working on
 
