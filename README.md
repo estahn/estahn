@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (5 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (6 days ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
@@ -44,7 +44,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-22](https://github.com/backstage/backstage/releases/tag/release-2021-10-22), 1 day ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-22](https://github.com/backstage/backstage/releases/tag/release-2021-10-22), 2 days ago) - Backstage is an open platform for building developer portals
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-0.3.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-0.3.3), 1 week ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 3 weeks ago) - Identifies geographically closest cloud provider region
