@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 days ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 week ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 months ago)
@@ -44,10 +44,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.3), 1 day ago) - Atlantis Helm Chart
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-28](https://github.com/backstage/backstage/releases/tag/release-2021-10-28), 1 day ago) - Backstage is an open platform for building developer portals
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.0), 3 days ago) - estahn&#39;s Helm Chart Repository
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-29.1](https://github.com/backstage/backstage/releases/tag/release-2021-10-29.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.3), 2 days ago) - Atlantis Helm Chart
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.0), 4 days ago) - estahn&#39;s Helm Chart Repository
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 4 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 month ago) - Identifies geographically closest cloud provider region
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 1 month ago) - Fluent Bit operator for Kubernetes
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.3](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.3), 2 months ago) - A prometheus exporter for PHP-FPM.
