@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (today)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 day ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 months ago)
@@ -44,9 +44,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 1 day ago) - estahn&#39;s Helm Chart Repository
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-29.1](https://github.com/backstage/backstage/releases/tag/release-2021-10-29.1), 4 days ago) - Backstage is an open platform for building developer portals
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.3), 5 days ago) - Atlantis Helm Chart
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 2 days ago) - estahn&#39;s Helm Chart Repository
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-10-29.1](https://github.com/backstage/backstage/releases/tag/release-2021-10-29.1), 5 days ago) - Backstage is an open platform for building developer portals
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) ([atlantis-3.14.3](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-3.14.3), 6 days ago) - Atlantis Helm Chart
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 1 month ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 month ago) - Identifies geographically closest cloud provider region
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 1 month ago) - Fluent Bit operator for Kubernetes
