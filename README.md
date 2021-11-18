@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (5 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (6 days ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
@@ -44,8 +44,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-11-12](https://github.com/backstage/backstage/releases/tag/release-2021-11-12), 5 days ago) - Backstage is an open platform for building developer portals
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 1 week ago) - A prometheus exporter for PHP-FPM.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-11-17.1](https://github.com/backstage/backstage/releases/tag/release-2021-11-17.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 2 weeks ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 2 weeks ago) - estahn&#39;s Helm Chart Repository
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-alpha.2](https://github.com/kubernetes/kops/releases/tag/v1.23.0-alpha.2), 2 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 1 month ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
@@ -65,7 +65,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 📓 Gists I wrote
 
-- [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (10 months ago)
+- [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (11 months ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (1 year ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (1 year ago)
 - [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
