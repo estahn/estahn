@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (today)
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (3 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (4 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
@@ -44,10 +44,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-02](https://github.com/backstage/backstage/releases/tag/release-2021-12-02), 1 day ago) - Backstage is an open platform for building developer portals
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.6), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.21.4](https://github.com/kubernetes/kops/releases/tag/v1.21.4), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 weeks ago) - A prometheus exporter for PHP-FPM.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-02](https://github.com/backstage/backstage/releases/tag/release-2021-12-02), 2 days ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.6), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.21.4](https://github.com/kubernetes/kops/releases/tag/v1.21.4), 2 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 1 month ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 2 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 2 months ago) - Fluent Bit operator for Kubernetes
