@@ -19,7 +19,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (1 week ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (4 weeks ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
@@ -44,13 +44,13 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.8](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.8), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-10](https://github.com/backstage/backstage/releases/tag/release-2021-12-10), 1 day ago) - Backstage is an open platform for building developer portals
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.21.4](https://github.com/kubernetes/kops/releases/tag/v1.21.4), 3 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.23.0-beta.1), 1 day ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.8](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.8), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-10](https://github.com/backstage/backstage/releases/tag/release-2021-12-10), 2 days ago) - Backstage is an open platform for building developer portals
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 1 month ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 2 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 2 months ago) - Fluent Bit operator for Kubernetes
+- [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) ([v0.12.0](https://github.com/fluent/fluentbit-operator/releases/tag/v0.12.0), 3 months ago) - Fluent Bit operator for Kubernetes
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 5 months ago) - JSON assertions for PHPUnit (including JSON Schema)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v1](https://github.com/hipagesgroup/actions/releases/tag/v1), 10 months ago) - GitHub Actions - Automate your GitHub workflows
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) ([v1.0.0](https://github.com/estahn/json-query-wrapper/releases/tag/v1.0.0), 11 months ago) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
