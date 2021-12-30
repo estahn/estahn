@@ -23,7 +23,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 months ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 months ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (4 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (6 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (8 months ago)
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (8 months ago)
@@ -44,7 +44,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-24](https://github.com/backstage/backstage/releases/tag/release-2021-12-24), 5 days ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2021-12-24](https://github.com/backstage/backstage/releases/tag/release-2021-12-24), 6 days ago) - Backstage is an open platform for building developer portals
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 weeks ago) - GitHub Actions - Automate your GitHub workflows
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.23.0-beta.1), 2 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.8](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.8), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -57,8 +57,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 📜 My recent blog posts
 
-- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (11 months ago)
-- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (11 months ago)
+- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (1 year ago)
+- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (1 year ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (5 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (5 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (6 years ago)
