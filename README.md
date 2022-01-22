@@ -44,8 +44,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([release-2022-01-20.1](https://github.com/backstage/backstage/releases/tag/release-2022-01-20.1), 1 day ago) - Backstage is an open platform for building developer portals
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.9](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.9), 3 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([release-2022-01-20.1](https://github.com/backstage/backstage/releases/tag/release-2022-01-20.1), 2 days ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.38.9](https://github.com/gruntwork-io/terratest/releases/tag/v0.38.9), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.22.3](https://github.com/kubernetes/kops/releases/tag/v1.22.3), 2 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 1 month ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 2 months ago) - A prometheus exporter for PHP-FPM.
