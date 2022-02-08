@@ -25,7 +25,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (5 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (7 months ago)
-- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (9 months ago)
+- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (10 months ago)
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (10 months ago)
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (11 months ago)
 
@@ -44,8 +44,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.66.0](https://github.com/backstage/backstage/releases/tag/v0.66.0), 4 days ago) - Backstage is an open platform for building developer portals
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.0), 6 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.66.0](https://github.com/backstage/backstage/releases/tag/v0.66.0), 5 days ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.0), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.22.3](https://github.com/kubernetes/kops/releases/tag/v1.22.3), 1 month ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 1 month ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 3 months ago) - A prometheus exporter for PHP-FPM.
@@ -60,7 +60,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (1 year ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (5 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (5 years ago)
-- [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (6 years ago)
+- [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (7 years ago)
 
 #### 📓 Gists I wrote
 
