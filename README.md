@@ -44,9 +44,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.22.4](https://github.com/kubernetes/kops/releases/tag/v1.22.4), 2 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.3](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.3), 5 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.68.1](https://github.com/backstage/backstage/releases/tag/v0.68.1), 6 days ago) - Backstage is an open platform for building developer portals
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.22.4](https://github.com/kubernetes/kops/releases/tag/v1.22.4), 3 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.3](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.3), 6 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.68.1](https://github.com/backstage/backstage/releases/tag/v0.68.1), 1 week ago) - Backstage is an open platform for building developer portals
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 months ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 3 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 3 months ago) - estahn&#39;s Helm Chart Repository
@@ -58,8 +58,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 - [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (1 year ago)
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (1 year ago)
-- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (5 years ago)
-- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (5 years ago)
+- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (6 years ago)
+- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (6 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (7 years ago)
 
 #### 📓 Gists I wrote
