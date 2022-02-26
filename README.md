@@ -27,7 +27,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (8 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (10 months ago)
 - [fluent/fluentbit-operator](https://github.com/fluent/fluentbit-operator) - Fluent Bit operator for Kubernetes (10 months ago)
-- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (11 months ago)
+- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -44,9 +44,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.4](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.4), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.69.0](https://github.com/backstage/backstage/releases/tag/v0.69.0), 1 day ago) - Backstage is an open platform for building developer portals
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-beta.2](https://github.com/kubernetes/kops/releases/tag/v1.23.0-beta.2), 1 day ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.69.2](https://github.com/backstage/backstage/releases/tag/v0.69.2), 1 day ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.4](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.4), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-beta.2](https://github.com/kubernetes/kops/releases/tag/v1.23.0-beta.2), 2 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 months ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 3 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 3 months ago) - estahn&#39;s Helm Chart Repository
