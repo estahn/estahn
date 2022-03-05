@@ -26,7 +26,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (6 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (8 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (10 months ago)
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (10 months ago)
+- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (1 year ago)
 
 #### 🌱 My latest projects
@@ -44,8 +44,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.70.0](https://github.com/backstage/backstage/releases/tag/v0.70.0), 1 day ago) - Backstage is an open platform for building developer portals
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.5](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.5), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.70.1](https://github.com/backstage/backstage/releases/tag/v0.70.1), 1 day ago) - Backstage is an open platform for building developer portals
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0-beta.2](https://github.com/kubernetes/kops/releases/tag/v1.23.0-beta.2), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 months ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 months ago) - A prometheus exporter for PHP-FPM.
@@ -65,7 +65,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 📓 Gists I wrote
 
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (1 year ago)
-- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (1 year ago)
+- [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (2 years ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (2 years ago)
 - [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (3 years ago)
