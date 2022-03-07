@@ -27,7 +27,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (8 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (10 months ago)
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator (11 months ago)
-- [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice. (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -44,9 +43,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.21.5](https://github.com/kubernetes/kops/releases/tag/v1.21.5), 1 day ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.70.1](https://github.com/backstage/backstage/releases/tag/v0.70.1), 2 days ago) - Backstage is an open platform for building developer portals
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0](https://github.com/kubernetes/kops/releases/tag/v1.23.0), 1 day ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 3 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.70.1](https://github.com/backstage/backstage/releases/tag/v0.70.1), 3 days ago) - Backstage is an open platform for building developer portals
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 months ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 4 months ago) - estahn&#39;s Helm Chart Repository
