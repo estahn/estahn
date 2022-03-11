@@ -43,9 +43,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v0.71.0-next.0](https://github.com/backstage/backstage/releases/tag/v0.71.0-next.0), 1 day ago) - Backstage is an open platform for building developer portals
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0](https://github.com/kubernetes/kops/releases/tag/v1.23.0), 4 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 6 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v0.71.1](https://github.com/backstage/backstage/releases/tag/v0.71.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.0](https://github.com/kubernetes/kops/releases/tag/v1.23.0), 5 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([legacy](https://github.com/hipagesgroup/actions/releases/tag/legacy), 2 months ago) - GitHub Actions - Automate your GitHub workflows
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 4 months ago) - estahn&#39;s Helm Chart Repository
