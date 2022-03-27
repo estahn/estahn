@@ -43,9 +43,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 1 day ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
-- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v2.0](https://github.com/hipagesgroup/actions/releases/tag/v2.0), 4 days ago) - GitHub Actions - Automate your GitHub workflows
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.0), 4 days ago) - Backstage is an open platform for building developer portals
+- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 2 days ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
+- [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v2.0](https://github.com/hipagesgroup/actions/releases/tag/v2.0), 5 days ago) - GitHub Actions - Automate your GitHub workflows
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.0), 5 days ago) - Backstage is an open platform for building developer portals
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.3), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 months ago) - A prometheus exporter for PHP-FPM.
