@@ -18,11 +18,11 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (today)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 day ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 day ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 days ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (3 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (4 months ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (5 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (7 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (9 months ago)
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) - GitHub Actions - Automate your GitHub workflows (11 months ago)
@@ -43,11 +43,11 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.1), 2 days ago) - Backstage is an open platform for building developer portals
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 6 days ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.1), 3 days ago) - Backstage is an open platform for building developer portals
+- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 1 week ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v2.0](https://github.com/hipagesgroup/actions/releases/tag/v2.0), 1 week ago) - GitHub Actions - Automate your GitHub workflows
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.3), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 4 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 4 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 5 months ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 6 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
