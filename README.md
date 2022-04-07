@@ -18,8 +18,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (4 days ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (5 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (5 days ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (4 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (4 months ago)
@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.2), 1 day ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.2), 2 days ago) - Backstage is an open platform for building developer portals
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 1 week ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v2.0](https://github.com/hipagesgroup/actions/releases/tag/v2.0), 2 weeks ago) - GitHub Actions - Automate your GitHub workflows
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.3), 2 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
