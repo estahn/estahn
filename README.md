@@ -43,8 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.0.3](https://github.com/backstage/backstage/releases/tag/v1.0.3), 1 day ago) - Backstage is an open platform for building developer portals
-- [fluent/fluent-operator](https://github.com/fluent/fluent-operator) ([v1.0.0](https://github.com/fluent/fluent-operator/releases/tag/v1.0.0), 2 weeks ago) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.0.3](https://github.com/backstage/backstage/releases/tag/v1.0.3), 2 days ago) - Backstage is an open platform for building developer portals
 - [hipagesgroup/actions](https://github.com/hipagesgroup/actions) ([v2.0](https://github.com/hipagesgroup/actions/releases/tag/v2.0), 2 weeks ago) - GitHub Actions - Automate your GitHub workflows
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.3), 3 weeks ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.6](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.6), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
