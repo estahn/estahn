@@ -20,7 +20,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 weeks ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (3 weeks ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (4 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management (5 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (7 months ago)
@@ -41,7 +41,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.1.0-next.3), 1 week ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.1.0](https://github.com/backstage/backstage/releases/tag/v1.1.0), 1 day ago) - Backstage is an open platform for building developer portals
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.7](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.7), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.3), 1 month ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 5 months ago) - A prometheus exporter for PHP-FPM.
