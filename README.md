@@ -28,6 +28,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🌱 My latest projects
 
+- [estahn/clippy](https://github.com/estahn/clippy) - 
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/godownloader](https://github.com/estahn/godownloader) - A collection of godownloader scripts.
@@ -37,11 +38,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com
-- [estahn/YiiSolarium](https://github.com/estahn/YiiSolarium) - YiiSolarium integrates Solarium (an opensource Solr client library for PHP applications)
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.0), 1 day ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.0), 2 days ago) - Backstage is an open platform for building developer portals
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.1](https://github.com/kubernetes/kops/releases/tag/v1.23.1), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.7](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.7), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 5 months ago) - A prometheus exporter for PHP-FPM.
