@@ -41,10 +41,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.0), 6 days ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.0), 1 week ago) - Backstage is an open platform for building developer portals
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.23.1](https://github.com/kubernetes/kops/releases/tag/v1.23.1), 1 week ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.7](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.7), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 5 months ago) - A prometheus exporter for PHP-FPM.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.7](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.7), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 6 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 6 months ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 7 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 10 months ago) - JSON assertions for PHPUnit (including JSON Schema)
