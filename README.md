@@ -41,8 +41,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.4](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.4), 3 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.3), 4 days ago) - Backstage is an open platform for building developer portals
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.4](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.4), 4 days ago) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.2.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.2.0-next.3), 5 days ago) - Backstage is an open platform for building developer portals
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.8](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.8), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.0.4](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.0.4), 6 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 6 months ago) - estahn&#39;s Helm Chart Repository
