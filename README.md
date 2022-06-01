@@ -19,9 +19,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 month ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (5 months ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 months ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (6 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (9 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (11 months ago)
@@ -41,8 +41,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.12](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.12), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.3.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.3.0-next.0), 1 week ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.3.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.3.0-next.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.12](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.12), 3 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-alpha.5](https://github.com/kubernetes/kops/releases/tag/v1.24.0-alpha.5), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 week ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 7 months ago) - estahn&#39;s Helm Chart Repository
