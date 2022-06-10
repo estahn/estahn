@@ -18,11 +18,11 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 weeks ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (3 weeks ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 months ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (6 months ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 months ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (7 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (9 months ago)
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (11 months ago)
 
@@ -41,10 +41,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.3.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.3.0-next.2), 2 days ago) - Backstage is an open platform for building developer portals
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.15](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.15), 3 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.24.0-beta.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 2 weeks ago) - A prometheus exporter for PHP-FPM.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.3.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.3.0-next.2), 3 days ago) - Backstage is an open platform for building developer portals
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.15](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.15), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.24.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 3 weeks ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 7 months ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 8 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) ([v4.0.0](https://github.com/estahn/phpunit-json-assertions/releases/tag/v4.0.0), 11 months ago) - JSON assertions for PHPUnit (including JSON Schema)
