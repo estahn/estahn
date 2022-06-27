@@ -25,7 +25,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (6 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (7 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (9 months ago)
-- [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +41,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.4.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.4.0-next.0), 5 days ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.4.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.4.0-next.0), 6 days ago) - Backstage is an open platform for building developer portals
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 1 week ago) - Serverless plugin to export environment variables into a .env file
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.17](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.17), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-beta.2](https://github.com/kubernetes/kops/releases/tag/v1.24.0-beta.2), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
