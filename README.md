@@ -24,7 +24,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (6 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (7 months ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (9 months ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -41,18 +41,18 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.4.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.4.0-next.0), 6 days ago) - Backstage is an open platform for building developer portals
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-beta.3](https://github.com/kubernetes/kops/releases/tag/v1.24.0-beta.3), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.4.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.4.0-next.0), 1 week ago) - Backstage is an open platform for building developer portals
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 1 week ago) - Serverless plugin to export environment variables into a .env file
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.17](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.17), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.0-beta.2](https://github.com/kubernetes/kops/releases/tag/v1.24.0-beta.2), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.17](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.17), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 month ago) - A prometheus exporter for PHP-FPM.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.0.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.0.1), 7 months ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.1.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.1.0), 8 months ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 
 #### 📜 My recent blog posts
 
-- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (1 year ago)
-- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (1 year ago)
+- [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (2 years ago)
+- [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (2 years ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (6 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (6 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (7 years ago)
