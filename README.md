@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.5.0](https://github.com/backstage/backstage/releases/tag/v1.5.0), 1 week ago) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.6.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.6.0-next.0), 1 day ago) - Backstage is an open platform for building developer portals
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.20](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.20), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.2.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.2.2), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.24.1](https://github.com/kubernetes/kops/releases/tag/v1.24.1), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
