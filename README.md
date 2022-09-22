@@ -19,9 +19,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 week ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (1 week ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (2 weeks ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (1 month ago)
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (2 months ago)
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file (3 months ago)
@@ -43,9 +43,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.25.0](https://github.com/kubernetes/kops/releases/tag/v1.25.0), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.22](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.22), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 1 week ago) - estahn&#39;s Helm Chart Repository
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.26.0-alpha.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.22](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.22), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 weeks ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.0), 2 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 3 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 4 months ago) - A prometheus exporter for PHP-FPM.
