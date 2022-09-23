@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (1 week ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (2 weeks ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (2 weeks ago)
@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.26.0-alpha.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.26.0-alpha.1), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.22](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.22), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 weeks ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.0), 2 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
@@ -64,5 +64,5 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (2 years ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (2 years ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (2 years ago)
-- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (2 years ago)
+- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (3 years ago)
 - [keybase.md](https://gist.github.com/0cdc98675842cd56b573eb431a6bf961) (4 years ago)
