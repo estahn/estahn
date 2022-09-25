@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.26.0-alpha.1), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.26.0-alpha.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.22](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.22), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 weeks ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.0), 2 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
