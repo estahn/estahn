@@ -43,10 +43,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.25.1](https://github.com/kubernetes/kops/releases/tag/v1.25.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.1](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.1), today) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.25.1](https://github.com/kubernetes/kops/releases/tag/v1.25.1), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.40.22](https://github.com/gruntwork-io/terratest/releases/tag/v0.40.22), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 3 weeks ago) - estahn&#39;s Helm Chart Repository
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.0), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 3 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 4 months ago) - A prometheus exporter for PHP-FPM.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.142](https://github.com/estahn/cloudping/releases/tag/v1.2.142), 1 year ago) - Identifies geographically closest cloud provider region
