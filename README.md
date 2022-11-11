@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.0), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.0), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.2), 1 week ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.25.2](https://github.com/kubernetes/kops/releases/tag/v1.25.2), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 months ago) - estahn&#39;s Helm Chart Repository
