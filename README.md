@@ -26,7 +26,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (4 months ago)
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file (5 months ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (11 months ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +42,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.0), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.0), 5 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.2), 1 week ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 5 months ago) - Serverless plugin to export environment variables into a .env file
