@@ -42,7 +42,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.3](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.3), 5 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.41.3](https://github.com/gruntwork-io/terratest/releases/tag/v0.41.3), 6 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.3.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.3.2), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.0), 2 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 5 months ago) - Serverless plugin to export environment variables into a .env file
