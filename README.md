@@ -18,8 +18,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 day ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 day ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (4 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (4 months ago)
@@ -42,7 +42,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.1), 2 days ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.1.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.1.1), 3 days ago) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.4.0](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.4.0), 3 weeks ago) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 7 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 8 months ago) - A prometheus exporter for PHP-FPM.
