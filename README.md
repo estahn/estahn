@@ -18,10 +18,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 days ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (2 days ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 days ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (3 days ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (3 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 weeks ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (4 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (5 months ago)
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (7 months ago)
@@ -42,8 +42,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.144](https://github.com/estahn/cloudping/releases/tag/v1.2.144), 1 day ago) - Identifies geographically closest cloud provider region
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.0), 3 days ago) - estahn&#39;s Helm Chart Repository
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.144](https://github.com/estahn/cloudping/releases/tag/v1.2.144), 2 days ago) - Identifies geographically closest cloud provider region
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.0), 4 days ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 7 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 8 months ago) - A prometheus exporter for PHP-FPM.
 
@@ -53,7 +53,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (2 years ago)
 - [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (6 years ago)
 - [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (6 years ago)
-- [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (7 years ago)
+- [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (8 years ago)
 
 #### 📓 Gists I wrote
 
