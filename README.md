@@ -19,8 +19,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (1 week ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (1 week ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (2 weeks ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (2 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (5 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (6 months ago)
@@ -42,11 +42,11 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v6.4.1](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v6.4.1), 3 days ago) - Serverless plugin for managing custom domains with API Gateways.
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v6.4.2](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v6.4.2), 1 day ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 1 week ago) - estahn&#39;s Helm Chart Repository
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.144](https://github.com/estahn/cloudping/releases/tag/v1.2.144), 1 week ago) - Identifies geographically closest cloud provider region
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 8 months ago) - Serverless plugin to export environment variables into a .env file
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 8 months ago) - A prometheus exporter for PHP-FPM.
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 9 months ago) - A prometheus exporter for PHP-FPM.
 
 #### 📜 My recent blog posts
 
