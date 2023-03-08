@@ -22,7 +22,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (5 months ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (6 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (6 months ago)
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (8 months ago)
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file (8 months ago)
