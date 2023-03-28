@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (4 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically. (5 days ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
@@ -29,6 +29,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🌱 My latest projects
 
+- [estahn/estahn.github.io](https://github.com/estahn/estahn.github.io) - test
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [estahn/godownloader](https://github.com/estahn/godownloader) - A collection of godownloader scripts.
@@ -38,11 +39,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com
-- [estahn/YiiSolarium](https://github.com/estahn/YiiSolarium) - YiiSolarium integrates Solarium (an opensource Solr client library for PHP applications)
 
 #### 🔭 Latest releases I've contributed to
 
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.2](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.2), 3 days ago) - Serverless plugin for managing custom domains with API Gateways.
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.2](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.2), 4 days ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 1 month ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 9 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 10 months ago) - A prometheus exporter for PHP-FPM.
