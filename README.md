@@ -22,7 +22,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (3 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 months ago)
-- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (7 months ago)
+- [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (8 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (8 months ago)
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (10 months ago)
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file (10 months ago)
@@ -42,8 +42,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.3](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.3), 1 day ago) - Serverless plugin for managing custom domains with API Gateways.
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 5 days ago) - Identifies geographically closest cloud provider region
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.3](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.3), 2 days ago) - Serverless plugin for managing custom domains with API Gateways.
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 6 days ago) - Identifies geographically closest cloud provider region
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 10 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 11 months ago) - A prometheus exporter for PHP-FPM.
