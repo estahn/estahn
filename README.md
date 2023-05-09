@@ -42,7 +42,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.3](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.3), 3 days ago) - Serverless plugin for managing custom domains with API Gateways.
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.3](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.3), 4 days ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 1 week ago) - Identifies geographically closest cloud provider region
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 10 months ago) - Serverless plugin to export environment variables into a .env file
