@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (4 days ago)
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (5 days ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (3 months ago)
@@ -43,8 +43,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.1.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.1.1), 4 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 6 days ago) - Serverless plugin for managing custom domains with API Gateways.
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.1.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.1.1), 5 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 1 week ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 2 weeks ago) - Identifies geographically closest cloud provider region
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 11 months ago) - Serverless plugin to export environment variables into a .env file
