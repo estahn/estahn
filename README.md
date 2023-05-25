@@ -25,7 +25,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (8 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (9 months ago)
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (10 months ago)
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (11 months ago)
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file (11 months ago)
 
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.1.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.1.1), 1 week ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.2.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.2.0), 1 day ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 2 weeks ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 3 weeks ago) - Identifies geographically closest cloud provider region
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 3 months ago) - estahn&#39;s Helm Chart Repository
