@@ -43,7 +43,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.2.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.2.0), 3 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.2.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.2.0), 4 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 2 weeks ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.147](https://github.com/estahn/cloudping/releases/tag/v1.2.147), 3 weeks ago) - Identifies geographically closest cloud provider region
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 3 months ago) - estahn&#39;s Helm Chart Repository
