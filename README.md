@@ -43,9 +43,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.0), 5 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.2), 5 days ago) - Mirror images into your own registry and swap image references automatically.
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 3 weeks ago) - Serverless plugin for managing custom domains with API Gateways.
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.0), 6 days ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.2), 6 days ago) - Mirror images into your own registry and swap image references automatically.
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 4 weeks ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 4 months ago) - estahn&#39;s Helm Chart Repository
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 11 months ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 year ago) - A prometheus exporter for PHP-FPM.
