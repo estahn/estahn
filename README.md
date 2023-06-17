@@ -47,7 +47,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.2), 2 weeks ago) - Mirror images into your own registry and swap image references automatically.
 - [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 1 month ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 4 months ago) - estahn&#39;s Helm Chart Repository
-- [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) ([v2.2.0](https://github.com/arabold/serverless-export-env/releases/tag/v2.2.0), 1 year ago) - Serverless plugin to export environment variables into a .env file
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 year ago) - A prometheus exporter for PHP-FPM.
 
 #### 📜 My recent blog posts
