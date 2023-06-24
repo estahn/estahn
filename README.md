@@ -25,7 +25,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (9 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (10 months ago)
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (11 months ago)
+- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) - Serverless plugin for managing custom domains with API Gateways. (1 year ago)
 
 #### 🌱 My latest projects
 
