@@ -21,7 +21,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (1 month ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (2 months ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (4 months ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (5 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (9 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (10 months ago)
@@ -44,7 +44,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.1), 3 weeks ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.2), 4 weeks ago) - Mirror images into your own registry and swap image references automatically.
-- [amplify-education/serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager) ([v7.0.4](https://github.com/amplify-education/serverless-domain-manager/releases/tag/v7.0.4), 1 month ago) - Serverless plugin for managing custom domains with API Gateways.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 4 months ago) - estahn&#39;s Helm Chart Repository
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 year ago) - A prometheus exporter for PHP-FPM.
 
