@@ -41,7 +41,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.3](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.3), 2 days ago) - Mirror images into your own registry and swap image references automatically.
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.1), 3 weeks ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.6.1](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.6.1), 5 months ago) - estahn&#39;s Helm Chart Repository
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) ([v2.2.0](https://github.com/hipages/php-fpm_exporter/releases/tag/v2.2.0), 1 year ago) - A prometheus exporter for PHP-FPM.
