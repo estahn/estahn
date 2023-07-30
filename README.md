@@ -21,7 +21,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (2 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (3 months ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (5 months ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (6 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (6 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (10 months ago)
 - [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com (11 months ago)
