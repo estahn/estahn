@@ -19,7 +19,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (2 months ago)
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (3 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (4 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (6 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (7 months ago)
