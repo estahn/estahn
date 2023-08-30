@@ -21,7 +21,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (2 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (3 months ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (4 months ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (5 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (7 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (7 months ago)
 - [hipages/php-fpm_exporter](https://github.com/hipages/php-fpm_exporter) - A prometheus exporter for PHP-FPM. (11 months ago)
