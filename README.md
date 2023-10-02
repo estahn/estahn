@@ -40,8 +40,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.152](https://github.com/estahn/cloudping/releases/tag/v1.2.152), today) - Identifies geographically closest cloud provider region
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.6](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.6), today) - Mirror images into your own registry and swap image references automatically.
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.6](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.6), 1 day ago) - Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 3 weeks ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 1 month ago) - Use Database URLs in your Django Application.
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.1), 3 months ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
