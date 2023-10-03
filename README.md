@@ -18,12 +18,12 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 weeks ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 weeks ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (1 month ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (4 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (6 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (8 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (8 months ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,8 +40,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.6](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.6), 1 day ago) - Mirror images into your own registry and swap image references automatically.
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 3 weeks ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 4 weeks ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 1 month ago) - Use Database URLs in your Django Application.
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.3.1), 3 months ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 
