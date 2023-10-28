@@ -22,7 +22,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (2 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (5 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (6 months ago)
-- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (8 months ago)
+- [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (9 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (9 months ago)
 
 #### 🌱 My latest projects
