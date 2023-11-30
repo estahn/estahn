@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (1 day ago)
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (2 days ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (3 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦 (6 months ago)
@@ -41,7 +41,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.0.0](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.0.0), 1 day ago) - Use Pydantic Settings in your Django application.
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.0.0](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.0.0), 2 days ago) - Use Pydantic Settings in your Django application.
 - [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.153](https://github.com/estahn/cloudping/releases/tag/v1.2.153), 4 weeks ago) - Identifies geographically closest cloud provider region
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v8.5.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v8.5.0), 1 month ago) - Terraform module which creates RDS Aurora resources on AWS 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 2 months ago) - estahn&#39;s Helm Chart Repository
@@ -57,7 +57,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 📓 Gists I wrote
 
-- [Windows AD Named Locations](https://gist.github.com/3bc4165706f517b26bcf75ee21d33ecd) (7 months ago)
+- [Windows AD Named Locations](https://gist.github.com/3bc4165706f517b26bcf75ee21d33ecd) (8 months ago)
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (2 years ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (3 years ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (3 years ago)
