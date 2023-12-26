@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (3 weeks ago)
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (4 weeks ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (4 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - TTerraform module to create AWS RDS Aurora resources 🇺🇦 (7 months ago)
@@ -41,7 +41,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.3](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.3), 3 days ago) - Use Pydantic Settings in your Django application.
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.3](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.3), 4 days ago) - Use Pydantic Settings in your Django application.
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.0.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.0.0), 2 weeks ago) - TTerraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 4 months ago) - Use Database URLs in your Django Application.
