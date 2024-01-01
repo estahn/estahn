@@ -18,14 +18,14 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/dataspecka](https://github.com/estahn/dataspecka) -  (2 days ago)
+- [estahn/dataspecka](https://github.com/estahn/dataspecka) -  (3 days ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (4 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - TTerraform module to create AWS RDS Aurora resources 🇺🇦 (7 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (9 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (11 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (11 months ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -42,8 +42,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
+- [estahn/cloudping](https://github.com/estahn/cloudping) ([v1.2.155](https://github.com/estahn/cloudping/releases/tag/v1.2.155), today) - Identifies geographically closest cloud provider region
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.9](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.9), today) - Mirror images into your own registry and swap image references automatically.
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.3](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.3), 1 week ago) - Use Pydantic Settings in your Django application.
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.0.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.0.0), 2 weeks ago) - TTerraform module to create AWS RDS Aurora resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.0.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.0.0), 3 weeks ago) - TTerraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 4 months ago) - Use Database URLs in your Django Application.
 
