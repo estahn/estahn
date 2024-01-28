@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/dataspecka](https://github.com/estahn/dataspecka) -  (4 weeks ago)
+- [estahn/dataspecka](https://github.com/estahn/dataspecka) -  (1 month ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (2 months ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (5 months ago)
