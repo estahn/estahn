@@ -18,17 +18,15 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/dataspecka](https://github.com/estahn/dataspecka) -  (1 month ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (1 day ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (2 months ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (5 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - TTerraform module to create AWS RDS Aurora resources 🇺🇦 (8 months ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (10 months ago)
 - [estahn/cloudping](https://github.com/estahn/cloudping) - Identifies geographically closest cloud provider region (1 year ago)
 
 #### 🌱 My latest projects
 
-- [estahn/dataspecka](https://github.com/estahn/dataspecka) - 
 - [estahn/estahn.github.io](https://github.com/estahn/estahn.github.io) - test
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
@@ -38,10 +36,11 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/guzzle-stereo-bundle](https://github.com/estahn/guzzle-stereo-bundle) - Record and Replay HTTP Responses easily in Symfony
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
+- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.4](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.4), 4 weeks ago) - Use Pydantic Settings in your Django application.
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.4](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.4), 1 month ago) - Use Pydantic Settings in your Django application.
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.0.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.0.0), 1 month ago) - TTerraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.8.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.8.0), 4 months ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 5 months ago) - Use Database URLs in your Django Application.
