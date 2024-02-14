@@ -18,8 +18,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (today)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 week ago)
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (2 weeks ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (2 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (6 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - TTerraform module to create AWS RDS Aurora resources 🇺🇦 (9 months ago)
@@ -48,8 +48,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 - [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (3 years ago)
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (3 years ago)
-- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (7 years ago)
-- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (7 years ago)
+- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (8 years ago)
+- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (8 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (9 years ago)
 
 #### 📓 Gists I wrote
