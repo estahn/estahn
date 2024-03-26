@@ -39,7 +39,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.3.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.3.0), 3 days ago) - Terraform module to create AWS RDS Aurora resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.3.0](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.3.0), 4 days ago) - Terraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.11](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.11), 3 weeks ago) - Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 4 weeks ago) - estahn&#39;s Helm Chart Repository
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.4](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.4), 2 months ago) - Use Pydantic Settings in your Django application.
