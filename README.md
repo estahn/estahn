@@ -21,7 +21,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (1 month ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (1 month ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (4 months ago)
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (7 months ago)
+- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (8 months ago)
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module to create AWS RDS Aurora resources 🇺🇦 (11 months ago)
 
 #### 🌱 My latest projects
@@ -42,7 +42,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.3.1), 2 weeks ago) - Terraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 1 month ago) - estahn&#39;s Helm Chart Repository
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.4](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.4), 3 months ago) - Use Pydantic Settings in your Django application.
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 7 months ago) - Use Database URLs in your Django Application.
+- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 8 months ago) - Use Database URLs in your Django Application.
 
 #### 📜 My recent blog posts
 
