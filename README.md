@@ -39,7 +39,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) ([v9.3.1](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/releases/tag/v9.3.1), 1 month ago) - Terraform module to create AWS RDS Aurora resources 🇺🇦
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 2 months ago) - estahn&#39;s Helm Chart Repository
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.4](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.4), 4 months ago) - Use Pydantic Settings in your Django application.
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 9 months ago) - Use Database URLs in your Django Application.
