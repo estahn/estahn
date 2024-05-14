@@ -22,7 +22,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (5 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (9 months ago)
-- [terraform-aws-modules/terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Terraform module to create AWS RDS Aurora resources 🇺🇦 (1 year ago)
 
 #### 🌱 My latest projects
 
