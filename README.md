@@ -18,9 +18,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (2 days ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 months ago)
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (5 months ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (3 days ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (6 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (9 months ago)
 
 #### 🌱 My latest projects
@@ -38,8 +38,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 1 day ago) - Use Pydantic Settings in your Django application.
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 2 months ago) - estahn&#39;s Helm Chart Repository
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 2 days ago) - Use Pydantic Settings in your Django application.
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 3 months ago) - estahn&#39;s Helm Chart Repository
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.1.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.1.0), 9 months ago) - Use Database URLs in your Django Application.
 
 #### 📜 My recent blog posts
