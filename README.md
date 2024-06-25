@@ -19,8 +19,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 👷 Check out what I'm currently working on
 
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (1 month ago)
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (3 months ago)
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (6 months ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (4 months ago)
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (7 months ago)
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application. (10 months ago)
 
 #### 🌱 My latest projects
@@ -38,9 +38,9 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.2.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.2.0), 3 weeks ago) - Use Database URLs in your Django Application.
+- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.2.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.2.0), 4 weeks ago) - Use Database URLs in your Django Application.
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 1 month ago) - Use Pydantic Settings in your Django application.
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 3 months ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 4 months ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
 
