@@ -39,7 +39,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 🔭 Latest releases I've contributed to
 
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) ([v2.2.0](https://github.com/jazzband/dj-database-url/releases/tag/v2.2.0), 1 month ago) - Use Database URLs in your Django Application.
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 1 month ago) - Use Pydantic Settings in your Django application.
+- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 2 months ago) - Use Pydantic Settings in your Django application.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 4 months ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
