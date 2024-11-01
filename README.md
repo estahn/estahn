@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (2 days ago)
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (3 days ago)
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (2 weeks ago)
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) - Use Pydantic Settings in your Django application. (11 months ago)
 
@@ -37,6 +37,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.19](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.19), today) - Mirror images into your own registry and swap image references automatically.
 - [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 5 months ago) - Use Pydantic Settings in your Django application.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.10.3](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.10.3), 8 months ago) - estahn&#39;s Helm Chart Repository
 
