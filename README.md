@@ -38,7 +38,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 #### 🔭 Latest releases I've contributed to
 
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 2 weeks ago) - estahn&#39;s Helm Chart Repository
-- [erhosen-libs/pydjantic](https://github.com/erhosen-libs/pydjantic) ([v1.1.5](https://github.com/erhosen-libs/pydjantic/releases/tag/v1.1.5), 6 months ago) - Use Pydantic Settings in your Django application.
 
 #### 📜 My recent blog posts
 
