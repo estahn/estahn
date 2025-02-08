@@ -42,8 +42,8 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 - [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (4 years ago)
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (4 years ago)
-- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (8 years ago)
-- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (8 years ago)
+- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (9 years ago)
+- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (9 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (10 years ago)
 
 #### 📓 Gists I wrote
