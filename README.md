@@ -36,7 +36,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.24](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.24), today) - Mirror images into your own registry and swap image references automatically.
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.24](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.24), 1 day ago) - Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 4 months ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
