@@ -36,7 +36,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.29](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.29), 5 days ago) - Mirror images into your own registry and swap image references automatically.
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.29](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.29), 6 days ago) - Mirror images into your own registry and swap image references automatically.
 - [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 9 months ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
@@ -53,4 +53,4 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [Simple shell function to read out Kubernetes secret in plain text](https://gist.github.com/6b8cfac387ffacc8738cbe2ffb675932) (4 years ago)
 - [Export AWS Route53 Domains to a CSV for Excel people](https://gist.github.com/33ee9f0ecede6416a168489a7a24ee24) (5 years ago)
 - [A workaround to get all data loaded into AWS RDS MySQL. When a read replica is restored from a snapshot, the replica won&#39;t wait for all the data to be transferred from Amazon Simple Storage Service (Amazon S3) to the Amazon Elastic Block Store (Amazon EBS) volume that&#39;s associated with the replica DB instance. The replica DB instance is available to perform the DB operations, and the new volume created from existing Amazon EBS snapshot loads in the background (lazy loading).](https://gist.github.com/8f829cec789ebe5800e99d2dc83ead1b) (5 years ago)
-- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (5 years ago)
+- [A script to delete AWS IAM users programmatically.](https://gist.github.com/b93d19f117a1b0cca90bc4567770c042) (6 years ago)
