@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (9 months ago)
+- [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository (10 months ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (10 months ago)
 
 #### 🌱 My latest projects
@@ -36,8 +36,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.5.29](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.5.29), 1 week ago) - Mirror images into your own registry and swap image references automatically.
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 9 months ago) - estahn&#39;s Helm Chart Repository
+- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 10 months ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
 
