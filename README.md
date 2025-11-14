@@ -35,7 +35,6 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/charts](https://github.com/estahn/charts) ([k8s-image-swapper-1.11.0](https://github.com/estahn/charts/releases/tag/k8s-image-swapper-1.11.0), 1 year ago) - estahn&#39;s Helm Chart Repository
 
 #### 📜 My recent blog posts
 
