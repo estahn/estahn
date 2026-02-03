@@ -35,14 +35,13 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.6.1](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.6.1), 1 day ago) - Mirror images into your own registry and swap image references automatically.
 
 #### 📜 My recent blog posts
 
 - [Export AWS Route53 Domains as CSV for Excel people](https://enricostahn.com/post/export-route53-domains-to-csv/) (5 years ago)
 - [Kubernetes Secrets in plain-text](https://enricostahn.com/post/kubernetes-secrets-in-plaintext/) (5 years ago)
-- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (9 years ago)
-- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (9 years ago)
+- [Guardians of the GitHub master](https://enricostahn.com/post/2016-03-27-guardians-of-the-github-master/) (10 years ago)
+- [jq for PHP](https://enricostahn.com/post/2016-03-05-jq-for-php/) (10 years ago)
 - [Reduce local test kitchen runtimes](https://enricostahn.com/post/2015-03-17-reduce-local-test-kitchen-runtimes/) (11 years ago)
 
 #### 📓 Gists I wrote
