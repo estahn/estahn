@@ -35,6 +35,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) ([v1.6.2](https://github.com/estahn/k8s-image-swapper/releases/tag/v1.6.2), today) - Mirror images into your own registry and swap image references automatically.
 
 #### 📜 My recent blog posts
 
