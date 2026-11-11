@@ -18,10 +18,12 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
+- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board (1 day ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (10 months ago)
 
 #### 🌱 My latest projects
 
+- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board
 - [estahn/estahn.github.io](https://github.com/estahn/estahn.github.io) - test
 - [estahn/charts](https://github.com/estahn/charts) - estahn&#39;s Helm Chart Repository
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
@@ -31,10 +33,10 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 - [estahn/guzzle-stereo-bundle](https://github.com/estahn/guzzle-stereo-bundle) - Record and Replay HTTP Responses easily in Symfony
 - [estahn/phpunit-json-assertions](https://github.com/estahn/phpunit-json-assertions) - JSON assertions for PHPUnit (including JSON Schema)
 - [estahn/json-query-wrapper](https://github.com/estahn/json-query-wrapper) - A wrapper for the popular command-line JSON processor &#34;jq&#34;
-- [estahn/enricostahn.com](https://github.com/estahn/enricostahn.com) - Website enricostahn.com
 
 #### 🔭 Latest releases I've contributed to
 
+- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) ([v0.1.4](https://github.com/estahn/hass-brunner/releases/tag/v0.1.4), 1 day ago) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board
 
 #### 📜 My recent blog posts
 
