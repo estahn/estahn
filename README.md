@@ -18,7 +18,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 👷 Check out what I'm currently working on
 
-- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board (1 day ago)
+- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board (2 days ago)
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically. (10 months ago)
 
 #### 🌱 My latest projects
@@ -36,7 +36,7 @@ If you :bust_in_silhouette: or your company :office: have benefited from my work
 
 #### 🔭 Latest releases I've contributed to
 
-- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) ([v0.1.4](https://github.com/estahn/hass-brunner/releases/tag/v0.1.4), 1 day ago) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board
+- [estahn/hass-brunner](https://github.com/estahn/hass-brunner) ([v0.1.4](https://github.com/estahn/hass-brunner/releases/tag/v0.1.4), 2 days ago) - Home Assistant integration for BRUNNER heating systems (BWP heat pump, EOS, BHZ) via the touchdisplay&#39;s local VNC — no cloud, no Modbus board
 
 #### 📜 My recent blog posts
 
